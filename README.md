@@ -96,7 +96,7 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 # 🧠 Modelos Disponibles 
 
 ---
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle">
       <img 
