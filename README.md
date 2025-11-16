@@ -96,19 +96,10 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 # 🧠 Modelos Disponibles 
 
 ---
-<center>
-  <span style="display: inline-flex; align-items: center; font-weight: 900; font-size: 24px;">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png?20240826133250"
-      width="48"
-      height="48"
-      style="margin-right: 8px;"
-      alt="Google Gemini Icon"
-    />
-    Google Gemini — Modelo Principal
-  </span>
-</center>
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png" width="48" height="48" alt="Google Gemini Icon">
+  <span style="font-weight: 900; font-size: 24px; vertical-align: middle;">Google Gemini — Modelo Principal</span>
+</p>
 
 
 
