@@ -313,11 +313,32 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 ## 📂 Estructura del Proyecto
 
 ```text
-GR_Leviatan/
-├─ src/           # Código principal de la extensión
-├─ package.json   # Dependencias y scripts
-├─ README.md      # Este archivo
-└─ .env           # Clave API compartida
+GR_LEVIATAN/
+├─ .github/        # Archivos de configuración de GitHub
+│  ├─ ISSUE_TEMPLATE
+│  ├─ FUNDING.yml      # Configuración de financiación
+│  └─ PULL_REQUEST_TEMPLATE.md
+├─ assets/         # Archivos de recursos (imágenes, calificaciones)
+│  ├─ calificacion.md
+│  ├─ Leviatan.png
+│  └─ tabla_preview.png
+├─ docs/           # Documentación y licencias traducidas
+│  ├─ LICENCE_DE
+│  ├─ LICENCE_EN
+│  ├─ LICENCE_ES
+│  ├─ LICENCE_FR
+│  └─ LICENCE_PT
+├─ node_modules/   # Dependencias de Node.js
+├─ out/            # Salida de la compilación (e.g., extension.js)
+├─ src/            # Código fuente principal
+│  └─ extension.ts
+├─ .env            # Variables de entorno compartidas (e.g., clave API)
+├─ .gitignore      # Archivo para ignorar en Git
+├─ LICENCE         # Licencia principal del proyecto
+├─ package-lock.json # Bloqueo de dependencias
+├─ package.json    # Metadatos y scripts del proyecto
+├─ README.md       # Este archivo
+└─ tsconfig.json   # Configuración de TypeScript
 ```
 
 ---
