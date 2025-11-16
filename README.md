@@ -64,20 +64,21 @@ cd GR_Leviatan
 npm install
 ```
 
+---
+
 ### 3️⃣ Configurar la Clave API
 
-Para que GR_Leviatan funcione correctamente necesitas **crear tus propias claves API**. Las claves del 2 al 5 son **opcionales** y deben provenir de cuentas diferentes en OpenRouter.
+Para que **GR_Leviatan** funcione correctamente necesitas crear **tus propias claves API**.
+Las claves del **2 al 5** son **opcionales** y deben provenir de cuentas diferentes en **OpenRouter**.
 
-| Servicio | Badge | Pasos para generar la API |
-|----------|-------|---------------------------|
-| **Gemini (Google)** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="120"/> | 1. Ve a [Google Cloud Console](https://console.cloud.google.com/).  
-2. Crea un proyecto nuevo o selecciona uno existente.  
-3. Habilita el API de **Gemini (Google GenAI)**. |
-| **OpenRouter** | <img src="https://openrouter.ai/favicon.ico" alt="OpenRouter" width="32"/> | 1. Ve a [OpenRouter](https://openrouter.ai/settings/keys).  
-2. Inicia sesión o crea una cuenta nueva.  
-3. Genera tus claves API (puedes generar varias, cada una desde cuentas distintas si quieres usar claves de repuesto).  
-⚠️ Nota: Las claves 2️ al 6 son opcionales y sirven como respaldo. Se recomienda crearlas desde cuentas diferentes. |
+---
 
+| Servicio            | Badge                                                                                                          | Pasos para generar la API                                                                                                                                                                                                                                                        |
+| ------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gemini (Google)** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="120"/> | 1. Ve a <a href="https://console.cloud.google.com/">Google Cloud Console</a>.<br>2. Crea un proyecto nuevo o selecciona uno existente.<br>3. Habilita el API de <b>Gemini (Google GenAI)</b>.                                                                                    |
+| **OpenRouter**      | <img src="https://openrouter.ai/favicon.ico" alt="OpenRouter" width="32"/>                                     | 1. Ve a <a href="https://openrouter.ai/settings/keys">OpenRouter / Keys</a>.<br>2. Inicia sesión o crea una cuenta nueva.<br>3. Genera tus claves API (puedes generar varias desde cuentas diferentes).<br><b>Nota:</b> Las claves 2 al 6 son opcionales y sirven como respaldo. |
+
+---
 
 ### Tu `.env` debera quedar de este modo
 
