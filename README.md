@@ -96,36 +96,17 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 # 🧠 Modelos Disponibles 
 
 ---
+<p>
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png?20240826133250"
+    width="48"
+    height="48"
+    style="vertical-align: middle; margin-right: 8px;"
+    alt="Google Gemini Icon"
+  />
+  <strong>Google Gemini — Modelo Principal</strong>
+</p>
 
-<table align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <tr>
-    <td style="padding-right: 16px;">
-
-      <span style="
-        background: linear-gradient(90deg, #3da7f7, #b96dff, #ff2f4b);
-        -webkit-background-clip: text;
-        color: transparent;
-        font-weight: 900;
-        font-size: 24px;
-        white-space: nowrap;
-      ">
-        Google Gemini — Modelo Principal
-      </span>
-
-    </td>
-
-    <td>
-
-      <img 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png?20240826133250"
-        width="48"
-        height="48"
-        style="border-radius: 2px;"
-      />
-
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
@@ -282,16 +263,19 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 
 ---
 
-## 🚀 Tabla de Clasificación por Modelo
+## 🚀 Tabla de Clasificación por Modelo (Click para ver completa)
 
 [![Tabla Preview](assets/tabla_preview.png)](assets/calificacion.md)
 
+---
 
-### 4️⃣ Ejecutar en VS Code
+###   Ejecutar en VS Code
 
+```text
 1. Abre el proyecto.
 2. Presiona `F5` o ve a **Run → Start Debugging**.
 3. Se abrirá una **nueva ventana** de VS Code en **modo desarrollo de extensión**.
+````
 
 ---
 
