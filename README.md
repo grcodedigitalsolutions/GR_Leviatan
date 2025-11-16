@@ -97,28 +97,37 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px; margin-top: 30px; margin-bottom: 30px;">
+<table align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <tr>
+    <td style="padding-right: 16px;">
 
-  <!-- Ícono de Gemini -->
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png?20240826133250" 
-    width="48" 
-    height="48" 
-    style="border-radius: 2px;"
-  />
+      <!-- Texto con degradado -->
+      <span style="
+        background: linear-gradient(90deg, #3da7f7, #b96dff, #ff2f4b);
+        -webkit-background-clip: text;
+        color: transparent;
+        font-weight: 900;
+        font-size: 24px;
+        white-space: nowrap;
+      ">
+        Google Gemini — Modelo Principal
+      </span>
 
-  <!-- Texto con degradado -->
-  <span style="
-    background: linear-gradient(90deg, #3da7f7, #b96dff, #ff2f4b);
-    -webkit-background-clip: text;
-    color: transparent;
-    font-weight: 900;
-    font-size: 24px;
-  ">
-    Google Gemini — Modelo Principal
-  </span>
+    </td>
 
-</div>
+    <td>
+
+      <!-- Ícono Gemini -->
+      <img 
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png?20240826133250"
+        width="48"
+        height="48"
+        style="border-radius: 2px;"
+      />
+
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -348,6 +357,49 @@ git push origin main
 
 **GR Code Digital Solutions** – Equipo de desarrollo y mantenimiento.
 💻 Creado para hacer que cada línea de código cuente.
+
+---
+
+## 💙 Apoya El Proyecto
+
+Si este proyecto te ha sido útil, considera apoyarlo a través de **GitHub Sponsors**.  
+Tu contribución ayuda a mantener el desarrollo activo y mejorar futuras versiones.
+
+<table align="center">
+  <tr>
+    <td align="left" valign="middle" width="260">
+      <img 
+        src="https://avatars.githubusercontent.com/u/186231665?v=4" 
+        width="260" 
+        style="border-radius: 12px;"
+      />
+    </td>
+    <td align="left" valign="middle">
+
+      <h2>JoseEduardoGR</h2>
+
+      <p>
+        <strong>Desarrollador • Python • C++ • Node</strong><br/>
+        🏠 Avanza aunque duela, cada salto te acerca a la versión que nadie creía posible.
+      </p>
+
+      <p>
+        <a href="https://github.com/JoseEduardoGR?tab=followers">
+          ⭐ Seguir en GitHub
+        </a>
+      </p>
+
+      <a href="https://github.com/sponsors/JoseEduardoGR">
+        <img 
+          src="https://img.shields.io/badge/Sponsor-FF4081?style=for-the-badge&logo=githubsponsors&logoColor=white"
+          height="40"
+        />
+      </a>
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
