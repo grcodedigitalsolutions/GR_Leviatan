@@ -361,14 +361,14 @@ git push origin main
 ---
 
 ## 💙 Apoya El Proyecto
-
+<center>
 Si este proyecto te ha sido útil, considera apoyarlo a través de **GitHub Sponsors**.  
 Tu contribución ayuda a mantener el desarrollo activo y mejorar futuras versiones.
-
+</center>
 <div align="center">
 
   <img 
-    src="https://avatars.githubusercontent.com/u/144511629?s=200&v=4" 
+    src="https://avatars.githubusercontent.com/u/186231665?v=4" 
     width="90" 
     style="border-radius: 50%; margin-bottom: 12px;"
   />
