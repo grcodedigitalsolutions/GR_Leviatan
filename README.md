@@ -401,12 +401,19 @@ Tu contribución ayuda a mantener el desarrollo activo y mejorar futuras version
 
 </div>
 
+---
 
+## 📄 Licencia
 
-##  📄 Licencia
+Esta obra está protegida por una **Licencia Personalizada Privada**  
+*(inspirada en la Business Source License 1.1)*
 
-**Licencia Personalizada Privada**
-[Licencia](LICENCE)
+Puedes consultar las versiones disponibles en su **idioma respectivo**:
 
+- [Español](docs/LICENCE_ES)  
+- [English](docs/LICENCE_EN)  
+- [Deutsch](docs/LICENCE_DE)  
+- [Français](docs/LICENCE_FR)  
+- [Português](docs/LICENCE_TP) 
 
 ---
