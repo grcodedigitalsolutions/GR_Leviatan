@@ -1,0 +1,52 @@
+{
+	"name": "GR_Leviatan",
+	"displayName": "GR Leviatan",
+	"description": "Extensión para modificar código usando Gemini bajo demanda.",
+	"version": "0.0.1",
+	"publisher": "tu-nombre",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:grLeviatan.modifyCode"
+	],
+	"main": "./out/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "grLeviatan.modifyCode",
+				"title": "Modificar Código con GR_Leviatan"
+			}
+		],
+		"keybindings": [
+			{
+				"command": "grLeviatan.modifyCode",
+				"key": "cmd+alt+l",
+				"when": "editorTextFocus"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"pretest": "npm run compile",
+		"test": "node ./out/test/runTest.js"
+		
+	},
+	"devDependencies": {
+		"@types/node": "^20.5.9",
+		"@types/node-fetch": "^2.6.13",
+		"@types/vscode": "^1.80.0",
+		"dotenv": "^16.3.1",
+		"node-fetch": "^2.6.12",
+		"typescript": "^5.2.2"
+	},
+	"dependencies": {
+		"@google/genai": "^1.29.1",
+		"axios": "^1.13.2"
+	}
+}
