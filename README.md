@@ -97,9 +97,18 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 
 ---
 
+## 🟨 Modelo Principal
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Gemini_2.5_Flash-PRINCIPAL-FFD700?style=for-the-badge&logo=google&logoColor=black&labelColor=1a1a1a&color=FFD700&cacheSeconds=0" height="70" style="border: 3px solid #d4af37; border-radius: 12px; padding: 6px;"/>
+
+</div>
+
+---
+
 ## 🔵 Google
 
-[![Gemini 2.5 Flash - Principal](https://img.shields.io/badge/Gemini_2.5_Flash-FFD700?style=for-the-badge&logoUrl=https://static.cdnlogo.com/logos/g/69/google-gemini.svg)](#)
 [![Gemini 2.0 Flash Experimental](https://img.shields.io/badge/Gemini_2.0_Flash_Exp-4285F4?style=for-the-badge&logo=google)](#)  
 [![Gemma 3n 2B](https://img.shields.io/badge/Gemma_3n_2B-4285F4?style=for-the-badge&logo=google)](#)  
 [![Gemma 3n 4B](https://img.shields.io/badge/Gemma_3n_4B-4285F4?style=for-the-badge&logo=google)](#)  
