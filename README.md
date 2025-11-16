@@ -360,27 +360,21 @@ git push origin main
 
 ---
 
+
 ## 💙 Apoya El Proyecto
 
 Si este proyecto te ha sido útil, considera apoyarlo a través de **GitHub Sponsors**.  
 Tu contribución ayuda a mantener el desarrollo activo y mejorar futuras versiones.
 
-<table align="center">
+<table>
   <tr>
-    <td align="left" valign="middle" width="260">
-      <img 
-        src="https://avatars.githubusercontent.com/u/186231665?v=4" 
-        width="260" 
-        style="border-radius: 12px;"
-      />
-    </td>
-    <td align="left" valign="middle">
+    <td>
 
       <h2>JoseEduardoGR</h2>
 
       <p>
         <strong>Desarrollador • Python • C++ • Node</strong><br/>
-        🏠 Avanza aunque duela, cada salto te acerca a la versión que nadie creía posible.
+        🚀 Avanza aunque duela, cada salto te acerca a la versión que nadie creía posible.
       </p>
 
       <p>
@@ -400,8 +394,6 @@ Tu contribución ayuda a mantener el desarrollo activo y mejorar futuras version
   </tr>
 </table>
 
-
----
 
 ##  📄 Licencia
 
