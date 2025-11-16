@@ -97,17 +97,61 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 
 ---
 
-## 🟨 Modelo Principal
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px; margin-top: 30px; margin-bottom: 30px;">
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <!-- Ícono de Gemini -->
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png?20240826133250" 
+    width="48" 
+    height="48" 
+    style="border-radius: 2px;"
+  />
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cJJpYKfjg1ne1k2Jq7sCkDxyUWEBz8TD0lF32W8CLDtcvw8BxDsHE3m57gaVxCrQyB9vSsOFpG3wxbpmzUIOsjEpsUm38XZTRn52r3Oi2Fr2-Dk3jttOU1Sf6uL5O5bd2jCPC0ZCZdZGZ1IWputGeSxPupTM5PkWHj1365MBiDy5bPq7v431BRDOCNw/s16000/5bbeb59b-6362-4a56-b836-4c1a59f24b86.gif" 
-     width="450" 
-     style="border-radius: 12px; border: 3px solid #3da7f7ff;" />
+  <!-- Texto con degradado -->
+  <span style="
+    background: linear-gradient(90deg, #3da7f7, #b96dff, #ff2f4b);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 900;
+    font-size: 24px;
+  ">
+    Google Gemini — Modelo Principal
+  </span>
 
-<br><br>
+</div>
 
-<img src="https://img.shields.io/badge/Gemini_2.5_Flash-PRINCIPAL-FFD700?style=for-the-badge&logo=google&logoColor=black&labelColor=1a1a1a&color=FFD700&cacheSeconds=0" height="70" />
+<div align="center">
+
+  <!-- GIF con marco con degradado -->
+  <div style="
+    display: inline-block;
+    padding: 8px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #3da7f7, #b96dff, #ff2f4b);
+  ">
+    <img 
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cJJpYKfjg1ne1k2Jq7sCkDxyUWEBz8TD0lF32W8CLDtcvw8BxDsHE3m57gaVxCrQyB9vSsOFpG3wxbpmzUIOsjEpsUm38XZTRn52r3Oi2Fr2-Dk3jttOU1Sf6uL5O5bd2jCPC0ZCZdZGZ1IWputGeSxPupTM5PkWHj1365MBiDy5bPq7v431BRDOCNw/s16000/5bbeb59b-6362-4a56-b836-4c1a59f24b86.gif"
+      width="480"
+      style="border-radius: 16px;"
+    />
+  </div>
+
+  <br><br>
+
+  <!-- Badge con ícono customizado -->  
+  <img 
+  src="https://img.shields.io/badge/Google_Gemini_2.5_Flash-Modelo_Principal-1a1a1a?style=for-the-badge&logo=google&logoColor=000000&color=3da7f7&labelColor=9b30ff&cacheSeconds=0"
+  height="80"
+/>
+
+
+  <p style="
+    font-size: 18px; 
+    color: #e7d3ff; 
+    margin-top: 18px;
+  ">
+    Motor de IA principal basado en <b>Gemini 2.5 Flash</b> — <b>Google DeepMind</b>
+  </p>
 
 </div>
 
