@@ -364,7 +364,9 @@ git push origin main
 <center>
 Si este proyecto te ha sido útil, considera apoyarlo a través de **GitHub Sponsors**.  
 Tu contribución ayuda a mantener el desarrollo activo y mejorar futuras versiones.
+
 </center>
+
 <div align="center">
 
   <img 
