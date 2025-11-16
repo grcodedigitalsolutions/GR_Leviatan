@@ -101,7 +101,6 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
   <tr>
     <td style="padding-right: 16px;">
 
-      <!-- Texto con degradado -->
       <span style="
         background: linear-gradient(90deg, #3da7f7, #b96dff, #ff2f4b);
         -webkit-background-clip: text;
@@ -117,7 +116,6 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 
     <td>
 
-      <!-- Ícono Gemini -->
       <img 
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png?20240826133250"
         width="48"
