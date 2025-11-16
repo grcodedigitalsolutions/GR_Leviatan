@@ -99,11 +99,18 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 
 ## 🟨 Modelo Principal
 
-<div align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
 
-<img src="https://img.shields.io/badge/Gemini_2.5_Flash-PRINCIPAL-FFD700?style=for-the-badge&logo=google&logoColor=black&labelColor=1a1a1a&color=FFD700&cacheSeconds=0" height="70" style="border: 3px solid #d4af37; border-radius: 12px; padding: 6px;"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cJJpYKfjg1ne1k2Jq7sCkDxyUWEBz8TD0lF32W8CLDtcvw8BxDsHE3m57gaVxCrQyB9vSsOFpG3wxbpmzUIOsjEpsUm38XZTRn52r3Oi2Fr2-Dk3jttOU1Sf6uL5O5bd2jCPC0ZCZdZGZ1IWputGeSxPupTM5PkWHj1365MBiDy5bPq7v431BRDOCNw/s16000/5bbeb59b-6362-4a56-b836-4c1a59f24b86.gif" 
+     width="450" 
+     style="border-radius: 12px; border: 3px solid #3da7f7ff;" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Gemini_2.5_Flash-PRINCIPAL-FFD700?style=for-the-badge&logo=google&logoColor=black&labelColor=1a1a1a&color=FFD700&cacheSeconds=0" height="70" />
 
 </div>
+
 
 ---
 
