@@ -360,39 +360,43 @@ git push origin main
 
 ---
 
-
 ## 💙 Apoya El Proyecto
 
 Si este proyecto te ha sido útil, considera apoyarlo a través de **GitHub Sponsors**.  
 Tu contribución ayuda a mantener el desarrollo activo y mejorar futuras versiones.
 
-<table>
-  <tr>
-    <td>
+<div align="center">
 
-      <h2>JoseEduardoGR</h2>
+  <img 
+    src="https://avatars.githubusercontent.com/u/144511629?s=200&v=4" 
+    width="90" 
+    style="border-radius: 50%; margin-bottom: 12px;"
+  />
 
-      <p>
-        <strong>Desarrollador • Python • C++ • Node</strong><br/>
-        🚀 Avanza aunque duela, cada salto te acerca a la versión que nadie creía posible.
-      </p>
+  <p style="font-size: 22px; font-weight: 800; margin: 0;">
+    JoseEduardoGR
+  </p>
 
-      <p>
-        <a href="https://github.com/JoseEduardoGR?tab=followers">
-          ⭐ Seguir en GitHub
-        </a>
-      </p>
+  <p>
+    <strong>Desarrollador • Python • C++ • Node</strong><br/>
+    🚀 Avanza aunque duela, cada salto te acerca a la versión que nadie creía posible.
+  </p>
 
-      <a href="https://github.com/sponsors/JoseEduardoGR">
-        <img 
-          src="https://img.shields.io/badge/Sponsor-FF4081?style=for-the-badge&logo=githubsponsors&logoColor=white"
-          height="40"
-        />
-      </a>
+  <p>
+    <a href="https://github.com/JoseEduardoGR?tab=followers">
+      ⭐ Seguir en GitHub
+    </a>
+  </p>
 
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/sponsors/JoseEduardoGR">
+    <img 
+      src="https://img.shields.io/badge/Sponsor_Me-FF4081?style=for-the-badge&logo=githubsponsors&logoColor=white"
+      height="44"
+    />
+  </a>
+
+</div>
+
 
 
 ##  📄 Licencia
