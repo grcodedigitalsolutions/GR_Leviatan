@@ -367,6 +367,8 @@ Tu contribución ayuda a mantener el desarrollo activo y mejorar futuras version
 
 </center>
 
+---
+
 <div align="center">
 
   <img 
