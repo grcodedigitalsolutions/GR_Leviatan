@@ -12,6 +12,8 @@
 
 ![Banner](https://img.shields.io/badge/GR_Leviatan-v3.0.0-blueviolet?style=for-the-badge\&logo=visual-studio-code)
 
+![Powered by TypeScript](https://img.shields.io/badge/Powered%20by-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Powered by JavaScript](https://img.shields.io/badge/Powered%20by-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 💡 Sobre GR_Leviatan
 
