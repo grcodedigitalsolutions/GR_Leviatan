@@ -26,6 +26,19 @@ Gracias a **Google Gemini y Otros Modelos de IA**, puedes:
 
 > ⚠️ **Nota:** Esta extensión es privada y solo funciona con la clave API proporcionada.
 
+### 🔄 Flujo de Trabajo
+
+```mermaid
+graph TD
+    A[👤 Usuario] -->|Selecciona Código| B(📝 Editor VS Code)
+    B -->|Cmd+Alt+L| C{🤖 GR Leviatan}
+    C -->|Elige Modelo| D[🧠 IA Cloud]
+    D -->|Procesa Solicitud| E[⚡ Código Mejorado]
+    E -->|Reemplaza| B
+    style C fill:#8A2BE2,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#4285F4,stroke:#333,stroke-width:2px,color:#fff
+```
+
 ---
 
 ## ✨ Características Destacadas
@@ -96,6 +109,20 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 ````
 
 # 🧠 Modelos Disponibles 
+
+```mermaid
+pie title Distribución de Modelos por Proveedor
+    "Google" : 30
+    "Meta (Llama)" : 15
+    "Alibaba (Qwen)" : 20
+    "DeepSeek" : 15
+    "Mistral" : 10
+    "Otros" : 10
+```
+
+<details>
+<summary><strong>👇 Ver Lista Completa de Modelos Soportados</strong></summary>
+<br>
 
 ---
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -266,11 +293,15 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 
 ---
 
+---
+
 ## 🟥 Alibaba – Tongyi
 
 [![Tongyi DeepResearch 30B A3B](https://img.shields.io/badge/Tongyi_DeepResearch_30B-A3B-D32F2F?style=for-the-badge)](#)
 
 ---
+
+</details>
 
 ## 🚀 Tabla de Clasificación por Modelo (Click para ver completa)
 
@@ -290,19 +321,32 @@ API_KEY_6="API_KEY_OPCIONAL_CUENTA6"
 
 ## 🚀 Cómo Usar GR_Leviatan
 
-```text
-1. Abre cualquier archivo de código (.js, .ts, etc.)
-2. Selecciona el bloque de código (o deja todo sin seleccionar)
-3. Abre la Paleta de Comandos (Cmd/Ctrl + Shift + P)
-4. Selecciona: "GR Leviatan: Modificar Código"
-5. Ingresa tu solicitud en lenguaje natural:
-   - "Refactoriza esta función usando Async/Await"
-   - "Agrega manejo de errores Try/Catch"
-```
+### ⌨️ Atajo Rápido
+**`Cmd + Alt + L`** (Mac) o **`Ctrl + Alt + L`** (Windows/Linux)
 
-> ✅ La IA procesará el código y aplicará los cambios automáticamente.
+### 📝 Pasos
+1. **Abre un archivo** de código (`.js`, `.ts`, `.py`, etc.).
+2. **Selecciona el código** que quieres modificar.
+   > *Si no seleccionas nada, se enviará todo el archivo.*
+3. Presiona el atajo **`Cmd + Alt + L`** o usa `F1` y busca **"GR Leviatan: Modificar Código"**.
+4. **Elige un modelo** de la lista (Gemini, Mistral, Llama, etc.).
+5. **Escribe tu instrucción** en el cuadro de texto.
+   * Ej: *"Refactoriza esto para usar async/await"*
+   * Ej: *"Añade comentarios explicativos"*
+6. ¡Listo! La IA aplicará los cambios automáticamente.
 
 ---
+
+## 🛠️ Solución de Problemas
+
+### ❌ Error: "Todas las claves de API fallaron"
+* Verifica que tu archivo `.env` esté en la raíz del proyecto.
+* Asegúrate de que las claves API en `.env` sean válidas y tengan crédito (si aplica).
+* Revisa tu conexión a internet.
+
+### ❌ El modelo no devuelve nada
+* Algunos modelos gratuitos pueden estar saturados. Intenta con otro modelo de la lista.
+* Intenta simplificar tu solicitud o seleccionar un fragmento de código más pequeño.
 
 ## 📚 Tips Avanzados
 
